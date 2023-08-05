@@ -1,0 +1,6 @@
+Premain-Class: com.maple.agent.AgentBootstrap
+Agent-Class: com.maple.agent.AgentBootstrap
+Manifest-Version: 1.0
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
+Can-Set-Native-Method-Prefix: true
